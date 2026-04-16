@@ -126,36 +126,21 @@ Switch 2 → Active: X, Unused: Y
 ---
 
 ##  Proof of Execution
-
+CHECK THE SCREENSHOTS FOLDER FOR THE OUTPUT SCREENSHOTS
 Screenshots included:
 ### Topology Setup
 
-![Topology]
-
 ### Controller–Switch Connection
-
-![Switch Connection]
 
 ### Allowed Scenario
 
-![Allowed]
-
 ### Blocked Scenario
-
-![Blocked]
 
 ### Performance Test (iperf)
 
-![iperf]
-
 ### Flow Analysis
 
-![Flow]
-
 ### pingall Result
-
-![Pingall]
-
 
 ---
 

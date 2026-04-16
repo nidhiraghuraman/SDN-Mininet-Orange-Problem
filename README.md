@@ -130,31 +130,31 @@ Switch 2 → Active: X, Unused: Y
 Screenshots included:
 ### Topology Setup
 
-![Topology]
+![Topology](screenshots/topologysetup.png)
 
 ### Controller–Switch Connection
 
-![Switch Connection]
+![Switch Connection](screenshots/controller.png)
 
 ### Allowed Scenario
 
-![Allowed]
+![Allowed](screenshots/allowedop.png)
 
 ### Blocked Scenario
 
-![Blocked]
+![Blocked](screenshots/blockedop.png)
 
 ### Performance Test (iperf)
 
-![iperf]
+![iperf](screenshots/performance.png)
 
 ### Flow Analysis
 
-![Flow]
+![Flow](screenshots/flow analysis.png)
 
 ### pingall Result
 
-![Pingall]
+![Pingall](screenshots/pingall.png)
 
 
 ---
@@ -177,5 +177,5 @@ This project successfully demonstrates:
 ---
 
 ## Author
-Nihira Hassan
-4 B - AIML
+Nidhi Raghuraman
+4F-CSE
